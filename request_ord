@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SABANG_ORDER_LIST>
+  <HEADER>
+    <SEND_COMPAYNY_ID>mjwon9548</SEND_COMPAYNY_ID>       <!-- 사방넷 로그인 아이디 -->
+    <SEND_AUTH_KEY>ZHEZH2W6BRybdJ6bF3ZGFJS2CXK4MZ3rrGT</SEND_AUTH_KEY>             <!-- 발급받은 인증키 -->
+    <SEND_DATE>20250822</SEND_DATE>                          <!-- YYYYMMDD -->
+  </HEADER>
+  <DATA>
+    <ITEM>
+      <ORD_ST_DATE>20250815</ORD_ST_DATE>                    <!-- 수집일자 기준 시작 -->
+      <ORD_ED_DATE>20250822</ORD_ED_DATE>                    <!-- 수집일자 기준 종료 -->
+      <ORD_FIELD>
+        IDX|ORDER_ID|MALL_ID|RECEIVE_NAME|RECEIVE_ZIPCODE|RECEIVE_ADDR|
+        TOTAL_COST|PAY_COST|ORDER_DATE|REG_DATE|ORDER_STATUS|
+        MALL_PRODUCT_ID|PRODUCT_ID|SKU_ID|PRODUCT_NAME|SALE_CNT
+      </ORD_FIELD>
+      <JUNG_CHK_YN2></JUNG_CHK_YN2>                          <!-- Y/N/NULL -->
+      <ORDER_ID></ORDER_ID>
+      <MALL_ID></MALL_ID>
+      <ORDER_STATUS></ORDER_STATUS>                          <!-- ‘ 상태코드’ 숫자 (001 등) -->
+      <LANG>UTF-8</LANG>                                     <!-- UTF-8 응답 요청 -->
+      <!-- 필요시 추가 필드: PARTNER_ID, MALL_USER_ID, DPARTNER_ID 등 -->
+    </ITEM>
+  </DATA>
+</SABANG_ORDER_LIST>
