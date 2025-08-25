@@ -3,7 +3,7 @@
   <HEADER>
     <SEND_COMPAYNY_ID>mjwon9548</SEND_COMPAYNY_ID>       <!-- 사방넷 로그인 아이디 -->
     <SEND_AUTH_KEY>ZHEZH2W6BRybdJ6bF3ZGFJS2CXK4MZ3rrGT</SEND_AUTH_KEY>             <!-- 발급받은 인증키 -->
-    <SEND_DATE>20250822</SEND_DATE>                          <!-- YYYYMMDD -->
+    <SEND_DATE>20250825</SEND_DATE>                          <!-- YYYYMMDD -->
   </HEADER>
   <DATA>
     <ITEM>
